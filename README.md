@@ -128,7 +128,7 @@ chats
           └── embedding vector(768)
 ```
 
-The checked-in schema is in `db/chat.sql`.
+The checked-in schema is in `db/chat-schema.sql`.
 
 ```sql
 CREATE EXTENSION IF NOT EXISTS vector;
