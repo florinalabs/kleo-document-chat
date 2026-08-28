@@ -6,7 +6,7 @@ Users can create persistent conversations, upload PDF, TXT, or Markdown files, a
 
 ## Links
 
-- Live demo: https://kleo-document-chat.vercel.app
+- Live demo: https://kleo-document-chat-coral.vercel.app
 - GitHub: https://github.com/florinalabs/kleo-document-chat
 
 ## Features
